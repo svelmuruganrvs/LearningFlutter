@@ -5,5 +5,10 @@ Academind Course Link : https://www.youtube.com/watch?v=x0uinJvhNxI&t=2s
  
 The Net Ninja Course Title : "Flutter Tutorial for Beginners"  
 The Net Ninja Course Link : https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ  
+
+Raja Yogan Course Title : "Flutter".  
+Raja Yogan Course Link : https://www.youtube.com/playlist?list=PLgGjX33Qsw-EMsLf8TmsYhKOCx2ALZiKi. 
+
+
  
  
